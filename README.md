@@ -29,7 +29,7 @@ Este projeto é um MVP (Produto Mínimo Viável).
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/GustavoDamaso421/agente-ia-expresso_chicken.git]
+    git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
     ```
 2.  **Instale as Dependências:**
     ```bash
