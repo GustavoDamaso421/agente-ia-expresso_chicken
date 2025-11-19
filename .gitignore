@@ -1,0 +1,15 @@
+# Ignorar ambiente virtual (pesado e desnecessário na nuvem)
+.venv/
+venv/
+__pycache__/
+
+# Ignorar arquivos de sistema
+.DS_Store
+
+# Ignorar arquivos de variáveis de ambiente (SEGURANÇA MÁXIMA!)
+.env
+
+# Ignorar banco de dados (por conter dados do negócio)
+# O recrutador pode criar um banco vazio se quiser rodar,
+# mas vamos deixar o código da conexão pronto.
+meu_banco_de_dados.db
